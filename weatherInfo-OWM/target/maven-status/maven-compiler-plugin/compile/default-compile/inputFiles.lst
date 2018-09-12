@@ -1,0 +1,12 @@
+C:\Users\SCIIT\Documents\12062018\BB-BE\weatherInfo-OWM\src\main\java\org\owm\weather\swagger\SwaggerConfig.java
+C:\Users\SCIIT\Documents\12062018\BB-BE\weatherInfo-OWM\src\main\java\org\owm\weather\exception\OpenWeatherMapServiceException.java
+C:\Users\SCIIT\Documents\12062018\BB-BE\weatherInfo-OWM\src\main\java\org\owm\weather\Application.java
+C:\Users\SCIIT\Documents\12062018\BB-BE\weatherInfo-OWM\src\main\java\org\owm\weather\service\WeatherService.java
+C:\Users\SCIIT\Documents\12062018\BB-BE\weatherInfo-OWM\src\main\java\org\owm\weather\domain\WeatherInfo.java
+C:\Users\SCIIT\Documents\12062018\BB-BE\weatherInfo-OWM\src\main\java\org\owm\weather\config\CurrentWeather2WeatherReportMapper.java
+C:\Users\SCIIT\Documents\12062018\BB-BE\weatherInfo-OWM\src\main\java\org\owm\weather\config\CustomTimeSerializer.java
+C:\Users\SCIIT\Documents\12062018\BB-BE\weatherInfo-OWM\src\main\java\org\owm\weather\config\CustomDateSerializer.java
+C:\Users\SCIIT\Documents\12062018\BB-BE\weatherInfo-OWM\src\main\java\org\owm\weather\utils\ValidationUtils.java
+C:\Users\SCIIT\Documents\12062018\BB-BE\weatherInfo-OWM\src\main\java\org\owm\weather\exception\InvalidCityNameException.java
+C:\Users\SCIIT\Documents\12062018\BB-BE\weatherInfo-OWM\src\main\java\org\owm\weather\config\WeatherConfig.java
+C:\Users\SCIIT\Documents\12062018\BB-BE\weatherInfo-OWM\src\main\java\org\owm\weather\controller\WeatherController.java

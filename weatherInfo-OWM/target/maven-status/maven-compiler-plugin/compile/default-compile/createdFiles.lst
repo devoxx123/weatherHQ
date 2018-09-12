@@ -1,0 +1,12 @@
+org\owm\weather\exception\InvalidCityNameException.class
+org\owm\weather\config\CurrentWeather2WeatherReportMapper.class
+org\owm\weather\swagger\SwaggerConfig.class
+org\owm\weather\utils\ValidationUtils.class
+org\owm\weather\config\CustomDateSerializer.class
+org\owm\weather\Application.class
+org\owm\weather\domain\WeatherInfo.class
+org\owm\weather\service\WeatherService.class
+org\owm\weather\config\CustomTimeSerializer.class
+org\owm\weather\controller\WeatherController.class
+org\owm\weather\exception\OpenWeatherMapServiceException.class
+org\owm\weather\config\WeatherConfig.class
