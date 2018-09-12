@@ -19,11 +19,8 @@ Hit Submit button
 It will display Weather information...
 
 Technologies used
-RESTful
-Spring Boot
-Swagger UI--Documentation REST API's
-Maven
-Embedded Tomcat Server
-TODO
-Java Doc
-Form Level Validation
+RESTful,
+Spring Boot,
+Swagger UI--Documentation REST API's,
+Maven,
+Embedded Tomcat Server..
