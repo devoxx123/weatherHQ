@@ -1,5 +1,5 @@
 Introduction
-WeatherHQ - This application will return current weather data from OpenWeatherMap.org, based on a city chosen by the user.
+WeatherHQ - This application will return current weather data from OpenWeatherMap.org, based on a city name chosen by the user.
 
 Source of Data
 Weather data is read from http://openweathermap.org/ using API http://api.openweathermap.org/data/2.5/weather?q={cityName}&appid={apiKey}
@@ -16,7 +16,8 @@ How to Use
 Access the website using http://localhost:8080/weather/current/{cityName}
 Enter the City Name
 Hit Submit button
-It will display Weather information
+It will display Weather information...
+
 Technologies used
 RESTful
 Spring Boot
