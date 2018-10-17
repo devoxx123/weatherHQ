@@ -23,7 +23,7 @@ public class SwaggerConfig {
 	}
 
 	private ApiInfo getApiInfo() {
-		Contact contact = new Contact("HARI KISHORE", "mhari.drop@gmail.com", null);
+		Contact contact = new Contact("DEVOXX", "devoxx@gmail.com", null);
 		return new ApiInfoBuilder().title("Spring Boot and Restful API integration to OpenWeatherMap").description("Restful API integration to OpenWeatherMap")
 				.version("1.0.0").license("Apache 2.0").contact(contact).build();
 	}
